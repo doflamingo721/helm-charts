@@ -104,3 +104,5 @@ server:
   metrics_enabled: true
   metrics_port: 9090
   web_root: ""
+  url_redirect: ""
+  
